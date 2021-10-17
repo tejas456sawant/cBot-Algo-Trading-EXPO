@@ -1,2 +1,2 @@
 # cBot-Algo-Trading-EXPO
-Bot for ctrader based on exponential moving average for forex trading.Bot works on 30 min timeframe.  
+Bot for ctrader based on the exponential moving average for forex trading. The bot works in 30 min timeframe.
